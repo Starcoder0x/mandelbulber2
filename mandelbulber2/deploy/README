@@ -150,7 +150,7 @@ make install
 6. TESTED ON
 ------------
 
-- Debian Buster x64
+- Debian Bulseye x64
 - Ubuntu 20.10
 
 - gcc 10.2.1
