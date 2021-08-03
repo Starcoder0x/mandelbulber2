@@ -57,6 +57,7 @@ v2.25 (April 2021)
 - Code: removed depreciated Qt functions (prepared for Qt 6.0) 
 - Examples: added GPU benchmark for stronger GPUs (benchmark-GPU 2.fract)
 - Examples: added many examples
+- Corrected AppImage package
 
 v2.24 (December 2020)
 - Added new fractal formulas
